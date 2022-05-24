@@ -1,3 +1,4 @@
+/*
 package payroll;
 
 import org.slf4j.Logger;
@@ -31,3 +32,5 @@ class LoadDatabase {
         };
     }
 }
+
+*/
